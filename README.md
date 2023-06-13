@@ -1,5 +1,5 @@
 # Drehmal Installer
 It installs Drehmal, supposedly
-Currently only for Linux, to update.
+<br>Currently only for Linux, idk how to make a windows installer :3
 
 Not much to put here, I just love READMEs...
